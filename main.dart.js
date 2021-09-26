@@ -39202,7 +39202,7 @@ return P.O($async$jv,r)},
 K(a,b){var s,r=this,q=null
 P.fd(r.f)
 s=t.r
-return M.nn(E.Co(H.b([B.vF(q,L.XZ(C.Da,q),24,new R.a9q(r,b),q)],s),C.bp,q,L.d2("\ud83d\udc51 Empire",q,q,q,q,q,q)),q,Q.amW(!0,T.kt(H.b([new R.G4(r.f,new R.a9r(r),q),M.i0(q,M.i0(q,T.xz(H.b([U.yq(L.d2("New Game",q,q,q,q,q,q),new R.a9s(b),q),B.vF(q,L.XZ(C.Dd,C.a8),24,new R.a9t(r),q),B.vF(q,L.XZ(C.D7,C.a8),24,new R.a9u(r,b),q)],s),C.aB,C.q3,C.ao),q,q,q,100,q,q,q),q,q,C.xU,q,q,q,q)],s),C.bQ,C.q2,C.ao),!0))}}
+return M.nn(E.Co(H.b([B.vF(q,L.XZ(C.Da,q),24,new R.a9q(r,b),q)],s),C.bp,q,L.d2("\ud83d\udc51 Empire: Join code: "+H.c(r.f),q,q,q,q,q,q)),q,Q.amW(!0,T.kt(H.b([new R.G4(r.f,new R.a9r(r),q),M.i0(q,M.i0(q,T.xz(H.b([U.yq(L.d2("New Game",q,q,q,q,q,q),new R.a9s(b),q),B.vF(q,L.XZ(C.Dd,C.a8),24,new R.a9t(r),q),B.vF(q,L.XZ(C.D7,C.a8),24,new R.a9u(r,b),q)],s),C.aB,C.q3,C.ao),q,q,q,100,q,q,q),q,q,C.xU,q,q,q,q)],s),C.bQ,C.q2,C.ao),!0))}}
 R.a9o.prototype={
 $0(){var s=this.a
 s.aw(new R.a9n(s))},
