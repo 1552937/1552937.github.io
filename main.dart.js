@@ -39558,7 +39558,7 @@ s=2
 return P.W(O.ot(h,h.ge3().h8(0,g)).jE(0),$async$oI)
 case 2:f=b
 e=f.gnv(f)
-for(h=e.length,g=q.y,p="The words will now be read. ",o=0;o<e.length;e.length===h||(0,H.K)(e),++o){n=e[o]
+for(h=e.length,g=q.y,p="",o=0;o<e.length;e.length===h||(0,H.K)(e),++o){n=e[o]
 m=n.b
 l=C.b.gI(m.c.a)
 k=n.a
