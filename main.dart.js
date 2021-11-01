@@ -33665,7 +33665,7 @@ O(a,b){var s,r=null,q=T.a8b(new U.qr(M.aji(r,r,new L.pi("assets/images/crown.png
 o=D.a85(T.xO(T.TV(C.zK,C.bS,C.cC),r,r),new F.ZJ(this,b),o)
 p=A.xH(r,r,new V.bV(C.cF,p),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
 s=t.fQ
-return new M.to(T.a7N(H.b([q,C.DI,C.w0,C.IT,T.TV(H.b([new T.eM(new S.aN(100,300,30,100),new T.cR(C.bm,o,r),r),new T.eM(new S.aN(100,300,30,100),new T.cR(C.bm,D.a85(T.xO(T.TV(C.AW,C.bS,C.cC),r,r),new F.ZK(this,b),p),r),r)],s),C.dY,C.cC)],s),C.eS,C.dY,C.cC),r)}}
+return new M.to(T.a7N(H.b([q,C.DI,C.w0,C.IT,T.TV(H.b([new T.eM(new S.aN(50,300,20,100),new T.cR(C.bm,o,r),r),new T.eM(new S.aN(50,300,20,100),new T.cR(C.bm,D.a85(T.xO(T.TV(C.AW,C.bS,C.cC),r,r),new F.ZK(this,b),p),r),r)],s),C.dY,C.cC)],s),C.eS,C.dY,C.cC),r)}}
 F.ZM.prototype={
 $1(a){var s=null,r=t.fQ
 return new E.lP(L.a4Y(this.a,s,s,s),E.ajB(new T.Ak(H.b([L.a4Y(this.b,s,s,s)],r),s)),H.b([new U.D9(new F.ZL(a),s,s,C.F,s,!1,L.a4Y(this.c,s,s,s),s)],r),s)},
