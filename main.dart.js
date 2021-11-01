@@ -33680,8 +33680,8 @@ this.a.nX(this.b,"Error","Link could not be launched. You can visit us yourself 
 $S:5}
 F.ZK.prototype={
 $0(){var s
-try{this.a.k5("")}catch(s){H.V(s)
-this.a.nX(this.b,"Error","Link could not be launched. You can visit us yourself through ","OK")}},
+try{this.a.k5("https://apps.apple.com/us/app/empire-party-game/id1592593947")}catch(s){H.V(s)
+this.a.nX(this.b,"Error","Link could not be launched. You can visit us yourself through https://apps.apple.com/us/app/empire-party-game/id1592593947","OK")}},
 $S:5}
 X.eJ.prototype={
 i(a){return this.b}}
